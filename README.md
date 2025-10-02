@@ -21,7 +21,16 @@ This project demonstrates how to use **Support Vector Machines (SVMs)** for both
 * Matplotlib
 
 ---
+##  Dataset
 
+The project uses the Breast Cancer Wisconsin dataset provided by Scikit-learn.
+
+Description: A binary classification dataset that contains features computed from digitized images of breast mass tissue.
+Classes: Malignant (cancerous) and Benign (non-cancerous).
+Features: 30 numerical features (e.g., radius, texture, smoothness, concavity).
+Samples: 569 total.
+
+The dataset is widely used in machine learning research to evaluate classification algorithms.
 
 
 
